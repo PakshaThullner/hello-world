@@ -1,2 +1,2 @@
 # hello-world
-oefening
+Dit is een oefening om even weer in te komen.
